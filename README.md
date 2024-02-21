@@ -26,7 +26,7 @@ This is a space where I share any personal code I'm allowed to share, that I'm n
 ## About Me:
 - 🔭 I’m currently working on a few things in order of priority:
   - ATM, primarily job hunting and getting certifications/practicing.
-  - Improving my Kombucha, which I sell to family and friends until the product and process are perfect and I can feasibly (and legally) scale without cutting into a full time job. I'm going to write a website soon to manage reservations.
+  - Improving my Kombucha, which I sell to family and friends until the product and process are perfect and I can feasibly (and legally) scale without cutting into a full time job. I'm designing a website to manage reservations. Will share the repo here when coding starts.
   - Flo Studios, a media brand about mindful and sustainable daily practices anyone can take on to improve their quality of life.
 - 🌱 I’m currently learning how to maintain laser cutters, as well as taking a MongoDB certification course.
 - 👯 I’m looking to collaborate on "Beyond Skyrim". I haven't applied because I have a lot on my plate and I don't play video games anymore. But I used to want to be a game developer and seeing their work brings out my inner child.
