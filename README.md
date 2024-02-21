@@ -25,7 +25,7 @@ This is a space where I share any personal code I'm allowed to share, that I'm n
 
 ## About Me:
 - 🔭 I’m currently working on a few things in order of priority:
-  - ATM, primarily job hunting and refreshing coding skills.
+  - ATM, primarily job hunting and getting certifications/practicing.
   - Improving my Kombucha, which I sell to family and friends until the product and process are perfect and I can feasibly (and legally) scale without cutting into a full time job. I'm going to write a website soon to manage reservations.
   - Flo Studios, a media brand about mindful and sustainable daily practices anyone can take on to improve their quality of life.
 - 🌱 I’m currently learning how to maintain laser cutters, as well as taking a MongoDB certification course.
